@@ -1,17 +1,5 @@
  ## Basic Python Concepts
- 
-### 🧮Task 1: Perform Basic Mathematical Operations
-##### Problem Statement: Write a Python program that does the following:
-1.  Takes two numbers as input from the user.
-2.  Performs the basic mathematical operations on these two numbers:
-o	Addition
-o	Subtraction
-o	Multiplication
-o	Division
-3.  Displays the results of each operation on the screen.
- - Expected Output:
-   - The output should include the result of each operation performed, for example:
- 
+
 ### 👋 Task 2: Create a Personalized Greeting
 ##### Problem Statement: Write a Python program that:
 1.  Takes a user's first name and last name as input.
@@ -27,7 +15,7 @@ This repository contains solutions for two Python programming tasks as part of a
 
 ## Tasks Overview
 
-### Task 1: Basic Mathematical Operations
+### 🧮 Task 1: Basic Mathematical Operations
 **File:** `task1_math_operations.py`
 
 **Description:**
@@ -48,3 +36,19 @@ A Python program that:
 **How to Run:**
 ```bash
 python task1_math_operations.py
+```
+##### Example Output:
+Task 1: Basic Mathematical Operations
+========================================
+Enter the first number: 5
+Enter the second number: 10
+
+========================================
+Results:
+========================================
+Addition: 15.0
+Subtraction: -5.0
+Multiplication: 50.0
+Division: 0.5
+
+
