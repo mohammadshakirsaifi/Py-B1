@@ -44,7 +44,7 @@ python task1_math_operations.py
 - Enter the second number: 10
 
 ========================================
-Results:
+########## Results:
 ========================================
 - Addition: 15.0
 - Subtraction: -5.0
