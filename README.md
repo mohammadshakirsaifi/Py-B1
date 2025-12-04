@@ -82,8 +82,8 @@ Hello, John Doe! Welcome to the Python program.
 - Clone the repository:
 
 ```bash
-git clone <your-repository-url>
-cd python-assignment
+git clone https://github.com/mohammadshakirsaifi/Py-B1.git
+cd python-b1
 ```
 ###### Run Task 1:
 
