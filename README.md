@@ -40,15 +40,14 @@ python task1_math_operations.py
 ##### Example Output:
 ##### Task 1: Basic Mathematical Operations
 ========================================
-**Enter the first number:** 5
-**Enter the second number:** 10
-
+###### Enter the first number: 5
+###### Enter the second number: 10
 ========================================
-##### Results:
+###### Results:
 ========================================
-**Addition:** 15.0
-**Subtraction:** -5.0
-**Multiplication:** 50.0
-**Division:** 0.5
+###### Addition: 15.0
+###### Subtraction: -5.0
+###### Multiplication: 50.0
+###### Division: 0.5
 
 
