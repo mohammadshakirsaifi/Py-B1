@@ -83,7 +83,7 @@ Hello, John Doe! Welcome to the Python program.
 
 ```bash
 git clone https://github.com/mohammadshakirsaifi/Py-B1.git
-cd python-b1
+cd Py-B1
 ```
 ###### Run Task 1:
 
