@@ -1,15 +1,4 @@
- ## Basic Python Concepts
-
-### 👋 Task 2: Create a Personalized Greeting
-##### Problem Statement: Write a Python program that:
-1.  Takes a user's first name and last name as input.
-2.  Concatenates the first name and last name into a full name.
-3.  Prints a personalized greeting message using the full name.
-- Expected Output:
-  - The program should output a greeting like:
- 
- 
-# Python Programming 
+ ## Basic Python Programming Concepts
 
 This repository contains solutions for two Python programming tasks as part of a coding assignment.
 
@@ -37,17 +26,73 @@ A Python program that:
 ```bash
 python task1_math_operations.py
 ```
-##### Example Output:
-##### Task 1: Basic Mathematical Operations
+##### Expected Output:
+``` text
+Task 1: Basic Mathematical Operations
 ========================================
-###### Enter the first number: 5
-###### Enter the second number: 10
+Enter the first number: 5
+Enter the second number: 10
 ========================================
-###### Results:
+Results:
 ========================================
-###### Addition: 15.0
-###### Subtraction: -5.0
-###### Multiplication: 50.0
-###### Division: 0.5
+Addition: 15.0
+Subtraction: -5.0
+Multiplication: 50.0
+Division: 0.5
+```
 
+###### 👋Task 2: Personalized Greeting
+File: task2_personalized_greeting.py
+
+###### Description:
+A Python program that:
+
+###### Takes a user's first name and last name as input
+
+Concatenates them into a full name
+
+Prints a personalized greeting message
+
+###### Features:
+- Input validation for empty names
+- Proper string formatting
+- Clean user interface
+
+###### How to Run:
+```bash
+python task2_personalized_greeting.py
+```
+###### Expected Output:
+
+``` text
+Task 2: Personalized Greeting
+========================================
+Enter your first name: John
+Enter your last name: Doe
+
+========================================
+Hello, John Doe! Welcome to the Python program.
+========================================
+```
+###### Requirements
+- Python 3.6 or higher
+###### No external dependencies required
+
+###### Setup and Execution
+- Clone the repository:
+
+```bash
+git clone <your-repository-url>
+cd python-assignment
+```
+###### Run Task 1:
+
+```bash
+python task1_math_operations.py
+```
+###### Run Task 2:
+
+```bash
+python task2_personalized_greeting.py
+```
 
