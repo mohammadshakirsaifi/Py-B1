@@ -21,3 +21,30 @@ o	Division
   - The program should output a greeting like:
  
  
+# Python Programming 
+
+This repository contains solutions for two Python programming tasks as part of a coding assignment.
+
+## Tasks Overview
+
+### Task 1: Basic Mathematical Operations
+**File:** `task1_math_operations.py`
+
+**Description:**
+A Python program that:
+1. Takes two numbers as input from the user
+2. Performs basic mathematical operations:
+   - Addition
+   - Subtraction
+   - Multiplication
+   - Division
+3. Displays the results of each operation
+
+**Features:**
+- Input validation for numeric values
+- Error handling for division by zero
+- Clean, formatted output
+
+**How to Run:**
+```bash
+python task1_math_operations.py
